@@ -144,7 +144,7 @@ echo "**                                                                    *"
 echo "**                       Multistalker  : $VERSION                      *"
 echo "**                       Uploaded by: LINUXSAT                        *"
 echo "**                                                                    *"
-echo
+echo "**
  "***********************************************************************"
 echo ""
 if [ $OSTYPE = "DreamOS" ]; then
